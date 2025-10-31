@@ -1,0 +1,6 @@
+name: GWelcome
+version: '${project.version}'
+main: ua.gpdev.gwelcome.GWelcome
+api-version: '1.16'
+authors: [GoldenPharamyth]
+description: Simple custom message join/quit

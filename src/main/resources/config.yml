@@ -1,0 +1,3 @@
+join-message: "&e[+] &fPlayer &e%player% &fjoin"
+first-join-message: "&a[+] &fPlayer &a%player% &fnewbie"
+quit-message: "&c[-] &fPlayer &c%player% &fquit"
