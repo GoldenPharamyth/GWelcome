@@ -1,7 +1,7 @@
 Customizing default join/exit messages
 
 Core: Paper
-Version: 1.16.5
+<br>Version: 1.16.5-1.21.10
 
 `config.yml`
 ```
